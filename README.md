@@ -1,34 +1,39 @@
 # AI Email Summary Bot
 
-## Опис
-Овој mini-project е дел од моите AI курсеви. Целта е да се користи AI за автоматско резимирање на QA и project update emails. Овој проект покажува како AI може да ја зголеми продуктивноста во QA workflow.
+## Description
 
-## Технологии
-- AI Language Model (ChatGPT или сличен)
-- Python (опционално, за automation)
-- Prompt engineering
+This mini-project is part of my AI learning journey. The goal is to leverage AI for automatically summarizing QA and project update emails. The project demonstrates how AI can improve productivity within the QA workflow.
 
-## Како работи
-1. Внеси email текст или QA report во AI prompt.
-2. AI генерира краток summary со клучни точки.
-3. Summary се користи за менаџмент или тимска комуникација.
+## Technologies
 
-## Пример на AI prompt
-AI Prompt Example for QA Email Summary:
+* AI Language Model (ChatGPT or similar)
+* Python (optional, for automation)
+* Prompt engineering
 
-"Summarize the following QA email into 5 bullet points highlighting:
-- Test results
-- Bugs found
-- Pending tasks
-- Recommendations
-- Priority actions
+## How it Works
 
-Email:
-'Today we completed regression testing on Module X. Found 3 critical bugs and 2 minor issues. Pending test cases on Module Y. Recommendation: prioritize critical bugs and retest tomorrow.'"
+1. Input email text or QA report into the AI prompt.
+2. AI generates a short summary with key points.
+3. The summary is then used for management updates or team communication.
 
-## Цел на проектот
-- Приказ на практична примена на AI во QA.
-- Подобрување на efficiency и комуникација во QA тим.
+## Example AI Prompt
 
-Updated README.md with AI Email Summary Bot example
+**AI Prompt Example for QA Email Summary:**
+
+*"Summarize the following QA email into 5 bullet points highlighting:*
+
+* *Test results*
+* *Bugs found*
+* *Pending tasks*
+* *Recommendations*
+* *Priority actions*
+
+*Email: 'Today we completed regression testing on Module X. Found 3 critical bugs and 2 minor issues. Pending test cases on Module Y. Recommendation: prioritize critical bugs and retest tomorrow.'”*
+
+## Project Goal
+
+* Showcase the practical application of AI in QA.
+* Improve efficiency and communication within QA teams.
+
+
 
