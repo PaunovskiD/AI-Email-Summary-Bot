@@ -30,3 +30,4 @@ Email:
 - Приказ на практична примена на AI во QA.
 - Подобрување на efficiency и комуникација во QA тим.
 
+Added styled example screenshot to README.md
