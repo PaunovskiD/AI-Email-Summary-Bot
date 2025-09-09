@@ -35,5 +35,10 @@ This mini-project is part of my AI learning journey. The goal is to leverage AI 
 * Showcase the practical application of AI in QA.
 * Improve efficiency and communication within QA teams.
 
+## Example Screenshot  
+
+![AI Email Summary Bot Screenshot](screenshots/example_screenshot.md)  
+
+
 
 
