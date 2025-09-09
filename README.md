@@ -6,7 +6,7 @@ This mini-project is part of my AI learning journey. The goal is to leverage AI 
 
 ## Technologies
 
-* AI Language Model (ChatGPT or similar)
+* AI Language Model (ChatGPT)
 * Python (optional, for automation)
 * Prompt engineering
 
