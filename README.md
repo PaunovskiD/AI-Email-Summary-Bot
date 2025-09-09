@@ -20,7 +20,7 @@ This mini-project is part of my AI learning journey. The goal is to leverage AI 
 
 **AI Prompt Example for QA Email Summary:**
 
-*"Summarize the following QA email into 5 bullet points highlighting:*
+*Summarize the following QA email into 5 bullet points highlighting:*
 
 * *Test results*
 * *Bugs found*
@@ -28,7 +28,7 @@ This mini-project is part of my AI learning journey. The goal is to leverage AI 
 * *Recommendations*
 * *Priority actions*
 
-*Email: 'Today we completed regression testing on Module X. Found 3 critical bugs and 2 minor issues. Pending test cases on Module Y. Recommendation: prioritize critical bugs and retest tomorrow.'”*
+*Email: Today we completed regression testing on Module X. Found 3 critical bugs and 2 minor issues. Pending test cases on Module Y. Recommendation: prioritize critical bugs and retest tomorrow.*
 
 ## Project Goal
 
