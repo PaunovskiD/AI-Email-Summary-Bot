@@ -39,6 +39,11 @@ This mini-project is part of my AI learning journey. The goal is to leverage AI 
 
 ![AI Email Summary Bot Screenshot](screenshots/example_screenshot.md)  
 
+## Example Screenshot
+
+![QA Benefit Diagram](screenshots/qa_ai_summary_bot.png)
+
+
 
 
 
