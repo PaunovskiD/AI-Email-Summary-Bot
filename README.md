@@ -41,7 +41,8 @@ This mini-project is part of my AI learning journey. The goal is to leverage AI 
 
 ## Example Screenshot
 
-![QA Benefit Diagram](screenshots/qa_ai_summary_bot.png)
+![AI Email Summary Flowchart](screenshots/AI%20Email%20Summary%20Integration%20Flowchart.png)
+
 
 
 
